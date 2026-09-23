@@ -1,6 +1,9 @@
 streamlit
+streamlit-option-menu
 pandas
 numpy
 scipy
 plotly
+matplotlib
+python-docx
 openpyxl
